@@ -1,90 +1,93 @@
 <h1 align="center">Hola 👋 Soy Monse</h1>
 <h3 align="center">Desarrolladora Full Stack</h3>
 
----
-
-## 💫 Sobre mí
-
-Soy desarrolladora enfocada en el desarrollo de aplicaciones web modernas.  
-Me gusta trabajar en el diseño de interfaces intuitivas y en la construcción de
-APIs robustas para sistemas empresariales.
-
-Tengo experiencia desarrollando **sistemas web completos**, desde el frontend
-hasta el backend, aplicando buenas prácticas de arquitectura, seguridad y
-gestión de bases de datos.
+<p align="center">
+Apasionada por el desarrollo de aplicaciones web modernas y la creación de sistemas completos desde el frontend hasta el backend.
+</p>
 
 ---
 
 ## 🛠️ Tecnologías
 
-**Frontend**
-- Angular
-- HTML
-- CSS
-- JavaScript
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Backend**
-- ASP.NET Core
-- Laravel (PHP)
-- REST API
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+</p>
 
-**Bases de Datos**
-- SQL Server
-- PostgreSQL
+### 🗄️ Bases de Datos
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**Herramientas**
-- Git
-- Visual Studio
-- VS Code
-- Entity Framework Core
+### 🧰 Herramientas
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Experiencia
 
 ### Residencias Profesionales — Tecmoin  
-**Agosto 2025 – Enero 2026**
+📅 **Agosto 2025 – Enero 2026**
 
-- Diseño e implementación del frontend utilizando **Angular**, desarrollando una interfaz moderna y responsiva.
+- Desarrollo del frontend con **Angular**.
+- Implementación de interfaces modernas y responsivas.
 - Desarrollo del backend con **Laravel (PHP)**.
-- Creación de módulos para gestión de clientes.
-- Implementación de envío automatizado de correos electrónicos.
-- Generación de reportes dentro del sistema.
 - Implementación de **control de acceso basado en roles (RBAC)**.
-- Diseño y consumo de **APIs REST** para integración frontend-backend.
-- Participación en **pruebas funcionales y validación del sistema**.
+- Desarrollo y consumo de **APIs REST**.
+- Automatización de correos electrónicos.
+- Generación de reportes dentro del sistema.
+- Pruebas funcionales para validar estabilidad del sistema.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### Sistema de Punto de Venta con Facturación Electrónica
-**Angular | ASP.NET Core | SQL Server | PostgreSQL**
+### 🧾 Sistema de Punto de Venta con Facturación Electrónica
 
-- Desarrollo **Full Stack** con arquitectura desacoplada basada en **API REST**.
-- Implementación de **autenticación y autorización con JWT**.
-- Gestión de **carrito de compras y generación de ventas**.
-- Generación automática de **facturas en formato XML**.
-- Integración de módulo de **analítica con PostgreSQL**.
-- Manejo de fechas en **formato UTC** para compatibilidad con PostgreSQL.
-- Modelado de entidades con **Entity Framework Core**.
+**Tecnologías:** Angular | ASP.NET Core | SQL Server | PostgreSQL
 
----
-
-### DeliCakes – Plataforma Web de Gestión y Venta de Pasteles
-**ASP.NET Core | SQL Server**
-
-- Implementación de sistema de **registro e inicio de sesión**.
-- Desarrollo de **perfil de usuario con subida de productos e imágenes**.
-- Sistema de **favoritos y galería dinámica**.
-- Implementación de **carrito de compras con formulario de pago**.
-- Aplicación del **patrón de diseño MVC**.
+- Desarrollo **Full Stack** basado en **API REST**.
+- Implementación de **autenticación con JWT**.
+- Gestión de **ventas y carrito de compras**.
+- Generación automática de **facturas XML**.
+- Implementación de **analítica con PostgreSQL**.
+- Manejo de fechas en **formato UTC**.
+- Modelado de datos con **Entity Framework Core**.
 
 ---
 
-## 📊 Estadísticas
+### 🍰 DeliCakes – Plataforma Web de Gestión y Venta de Pasteles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+**Tecnologías:** ASP.NET Core | SQL Server
+
+- Sistema de **registro e inicio de sesión**.
+- Perfil de usuario con **subida de productos e imágenes**.
+- Implementación de **favoritos y galería dinámica**.
+- Sistema de **carrito de compras con formulario de pago**.
+- Desarrollo utilizando **patrón MVC**.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MonseJM&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonseJM&layout=compact)
 
 ---
 
