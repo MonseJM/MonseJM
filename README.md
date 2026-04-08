@@ -108,10 +108,11 @@ desde el frontend hasta el backend.
 
 ---
 
-# 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonseJM&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonseJM&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonseJM&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonseJM&layout=compact&theme=tokyonight)
 
 ---
 
